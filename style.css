@@ -2,6 +2,8 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
+    background-image: url('snowfall.gif');
+    background-color: red;
 }
 
 .container {
@@ -9,12 +11,6 @@ body {
     margin: 0 auto;
 }
 
-header, footer {
-    background-color: #3498db;
-    color: #fff;
-    padding: 10px 0;
-    text-align: center;
-}
 
 footer {
     position: fixed;
